@@ -44,7 +44,6 @@ _PCB Layout_
 ![image](https://github.com/user-attachments/assets/57d519cc-0f52-4b09-b598-fe135a5db950)
 
 
-> _You can upload screenshots and name them `schematic.png` and `pcb.png` in your repo to show these previews._
 
 ---
 
