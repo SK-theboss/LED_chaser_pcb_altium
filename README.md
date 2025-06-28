@@ -6,7 +6,7 @@ This repository contains the Altium Designer project files for a simple **LED Ch
 
 ## 🔧 Project Description
 
-The LED Chaser circuit is designed to sequentially light up 8 LEDs in a "running" pattern using a CD4017 Decade Counter and a 555 Timer-based pulse generator.
+The LED Chaser circuit is designed to sequentially light up 10 LEDs in a "running" pattern using a CD4017 Decade Counter and a 555 Timer-based pulse generator.
 
 ---
 
