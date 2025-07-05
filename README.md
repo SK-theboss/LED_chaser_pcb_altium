@@ -27,7 +27,7 @@ The LED Chaser circuit is designed to sequentially light up 10 LEDs in a "runnin
 | `LEDChaser.PrjPcb`                  | Main Altium project file               |
 | `LEDChaser.SchDoc`                  | Schematic design                       |
 | `LEDChaser.PcbDoc`                  | PCB layout                             |
-| `CAMtastic1` (optional)             | CAM output or previews                 |
+| `CAMtastic1`                        | CAM output or previews                 |
 | `README.md`                         | This documentation file                |
 
 ---
